@@ -13,3 +13,8 @@
 # Fourth Project- Mini Calender
 <img width="1918" height="838" alt="image" src="https://github.com/user-attachments/assets/82f021a1-2774-4665-a082-85bcb7a9dab8" />
 
+-----
+# Fifth Project- Text to Speech Converter
+<img width="1912" height="842" alt="image" src="https://github.com/user-attachments/assets/33c98cb5-a804-4d78-b577-a2e52880fef1" />
+
+
