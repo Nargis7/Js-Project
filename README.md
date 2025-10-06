@@ -21,5 +21,9 @@
 # Sixth Project- Select Menu
 <img width="1914" height="836" alt="image" src="https://github.com/user-attachments/assets/5957e23a-6240-4bfb-b893-12423efb89f6" />
 
+# Seventh Project- Notes
+<img width="1919" height="834" alt="image" src="https://github.com/user-attachments/assets/ffa4d485-7b6a-443b-9853-740499b59c91" />
+
+
 
 
