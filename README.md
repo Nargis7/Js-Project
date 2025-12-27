@@ -28,5 +28,9 @@
 # Eigth project- To Do App
 <img width="1910" height="827" alt="image" src="https://github.com/user-attachments/assets/732e12b8-863c-4756-a964-f5fc9dd9b5c2" />
 
+# Ninth Project- Password indicator
+<img width="1082" height="699" alt="image" src="https://github.com/user-attachments/assets/590a7549-9dae-45a2-ba46-b7104b33a103" />
+
+
 
 
