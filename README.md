@@ -31,6 +31,10 @@
 # Ninth Project- Password indicator
 <img width="1082" height="699" alt="image" src="https://github.com/user-attachments/assets/590a7549-9dae-45a2-ba46-b7104b33a103" />
 
+# Tenth Project- QR Generator
+<img width="1418" height="727" alt="image" src="https://github.com/user-attachments/assets/d33ebf0e-de79-44a8-b09e-557944b88001" />
+
+
 
 
 
